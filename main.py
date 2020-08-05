@@ -37,8 +37,9 @@ def Game(change):
 
 #Store results in a list
 results = []
-for x in range(10000):
-    results.append(Game(1)) 
+for x in range(1000000):
+    results.append(Game(0)) #Game(0) for no door change
+                            #Game(1) for change the door adter reveal    
 #print(*results)
 
 winCount = results.count("win")
