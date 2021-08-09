@@ -10,12 +10,10 @@ https://www.youtube.com/watch?v=mhlc7peGlGg
 
 Not changing the selected door
 
-winCount   =  333368
-looseCount =  666632
-
-
+ - winCount   =  333368 
+ - looseCount =  666632
 
 Changing the selected door
 
-winCount   =  666964
-looseCount =  333036
+ - winCount   =  666964
+ - looseCount =  333036
