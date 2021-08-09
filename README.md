@@ -8,10 +8,10 @@ https://www.youtube.com/watch?v=mhlc7peGlGg
 
 # Results
 
-# Not changing the selected door
+Not changing the selected door
 winCount   =  333368
 looseCount =  666632
 
-# Changing the selected door
+Changing the selected door
 winCount   =  666964
 looseCount =  333036
